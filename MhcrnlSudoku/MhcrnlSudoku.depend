@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1516699258 source:/home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/celula.cpp
+	"celula.h"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/celula.h
+
+1516699258 source:/home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/grupo.cpp
+	<iostream>
+	"grupo.h"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/grupo.h
+	"celula.cpp"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/celula.cpp
+	"celula.h"
+
+1516699258 source:/home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/jogo.cpp
+	"jogo.h"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/jogo.h
+	"tabuleiro.cpp"
+	"pilha_de_jogadas.cpp"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/tabuleiro.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	"tabuleiro.h"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/tabuleiro.h
+	"grupo.cpp"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/grupo.cpp
+	<iostream>
+	"grupo.h"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/pilha_de_jogadas.cpp
+	<iostream>
+	"pilha_de_jogadas.h"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/pilha_de_jogadas.h
+
+1516699258 source:/home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/main.cpp
+	<iostream>
+	<string>
+	"jogo.cpp"
+	"menu.cpp"
+
+1516699258 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/jogo.cpp
+	"jogo.h"
+
+1516699815 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/menu.cpp
+	<iostream>
+	<sstream>
+	"menu.h"
+	"jogo.h"
+	"celula.h"
+
+1516699686 /home/mhcrnl/2018Q1/C++/sudoku-18/MhcrnlSudoku/menu.h
+

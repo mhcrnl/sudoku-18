@@ -1,6 +1,8 @@
 #include <iostream>
 #include <sstream>
 #include "menu.h"
+#include "jogo.h"
+#include "celula.h"
 
 using namespace std;
 
